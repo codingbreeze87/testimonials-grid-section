@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [testimonials grid section](https://github.com/codingbreeze87/testimonials-grid-section)
+- Live Site URL: [testimonials grid section](https://testimonials-grid-section-challenges.netlify.app/)
 
 ## My process
 
@@ -47,4 +47,5 @@ Users should be able to:
 
 - github - [codingbreeze87](https://www.your-site.com)
 - Frontend Mentor - [@codingbreeze87](https://www.frontendmentor.io/profile/codingbreeze87)
+
 # testimonials-grid-section
