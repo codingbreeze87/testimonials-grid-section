@@ -93,7 +93,7 @@ img {
 
 .testimonial__purple {
   background-color: var(--primary-purple-500);
-  background-image: url(/images/bg-pattern-quotation.svg);
+  background-image: url('images/bg-pattern-quotation.svg');
   background-repeat: no-repeat;
   background-position: top 0.4rem right 3.75rem;
   grid-area: p;
